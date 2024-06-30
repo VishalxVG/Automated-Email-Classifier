@@ -2,12 +2,6 @@
 
 This project is an automated email screening system that fetches emails, extracts and formats the content, and sends WhatsApp messages using Twilio. It is designed to help users receive important email notifications directly on their WhatsApp.
 
-## Screenshots
-
-![WhatsApp Notification](https://github.com/VishalxVG/Automated-Email-Classifier/blob/main/img1.jpg)
-![Email Fetching](https://github.com/VishalxVG/Automated-Email-Classifier/blob/main/img2.jpg)
-
-
 
 ## Tech Stack
 
@@ -80,6 +74,12 @@ Follow these steps to set up and run the project:
 1. Make sure your environment variables are set correctly.
 2. Run the script to start fetching emails and receiving WhatsApp notifications.
 3. Adjust the fetch interval and sender email address as needed in the script.
+
+
+## Screenshots
+
+![WhatsApp Notification](https://github.com/VishalxVG/Automated-Email-Classifier/blob/main/img1.jpg)
+![Email Fetching](https://github.com/VishalxVG/Automated-Email-Classifier/blob/main/img2.jpg)
 
 ## Contributing
 
