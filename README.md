@@ -15,7 +15,7 @@ This project is an automated email screening system that fetches emails, extract
 2. **Extract and Format Content**: The content of the emails is extracted and formatted to include only relevant information.
 3. **Send WhatsApp Messages**: The formatted email content is then sent as a WhatsApp message using Twilio's API.
 
-![WhatsApp Screenshot](path_to_your_image.png)
+![WhatsApp Screenshot]([path_to_your_image.png](https://github.com/VishalxVG/Automated-Email-Classifier/blob/main/img1.jpg))
 
 ## Installation
 
