@@ -3,18 +3,22 @@
 This project is an automated email screening system that fetches emails, extracts and formats the content, and sends WhatsApp messages using Twilio. It is designed to help users receive important email notifications directly on their WhatsApp.
 
 
+
+
 ## Tech Stack
 
 - **Python**: The core language used for automation.
 - **IMAP**: Used to fetch emails from the server.
 - **Email**: For handling and parsing email messages.
 - **Twilio**: For sending WhatsApp messages.
+- **Pyinstaller** : For creating a executable file.
 
 ## How It Works
 
 1. **Fetch Emails**: The script connects to the Gmail IMAP server and fetches emails from a specific sender.
 2. **Extract and Format Content**: The content of the emails is extracted and formatted to include only relevant information.
 3. **Send WhatsApp Messages**: The formatted email content is then sent as a WhatsApp message using Twilio's API.
+4. **Executable File** : Using pyinstaller I have created a executable file that will run and find the most recent email from the given source and sent the required mails to the watsapp number
 
 
 ## Installation
